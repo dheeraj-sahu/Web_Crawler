@@ -1,0 +1,48 @@
+HTML File: storage/https___news.ycombinator.com_best/https___news.ycombinator.com_best.html
+Data Start Line: 1
+Data End Line: 488
+----------------------------------
+HTML File: storage/https___news.ycombinator.com_best/https___news.ycombinator.com.html
+Data Start Line: 489
+Data End Line: 1022
+----------------------------------
+HTML File: storage/https___news.ycombinator.com_best/https___news.ycombinator.com_news.html
+Data Start Line: 1023
+Data End Line: 1556
+----------------------------------
+HTML File: storage/https___news.ycombinator.com_best/https___news.ycombinator.com_newest.html
+Data Start Line: 1557
+Data End Line: 2162
+----------------------------------
+HTML File: storage/https___news.ycombinator.com_best/https___news.ycombinator.com_front.html
+Data Start Line: 2163
+Data End Line: 2660
+----------------------------------
+HTML File: storage/https___news.ycombinator.com_best/https___news.ycombinator.com_newcomments.html
+Data Start Line: 2661
+Data End Line: 3163
+----------------------------------
+HTML File: storage/https___news.ycombinator.com_best/https___news.ycombinator.com_ask.html
+Data Start Line: 3164
+Data End Line: 3559
+----------------------------------
+HTML File: storage/https___news.ycombinator.com_best/https___news.ycombinator.com_show.html
+Data Start Line: 3560
+Data End Line: 4049
+----------------------------------
+HTML File: storage/https___news.ycombinator.com_best/https___news.ycombinator.com_jobs.html
+Data Start Line: 4050
+Data End Line: 4340
+----------------------------------
+HTML File: storage/https___news.ycombinator.com_best/https___news.ycombinator.com_submit.html
+Data Start Line: 4341
+Data End Line: 4348
+----------------------------------
+HTML File: storage/https___news.ycombinator.com_best/https___news.ycombinator.com_login_goto=best.html
+Data Start Line: 4349
+Data End Line: 4355
+----------------------------------
+HTML File: storage/https___news.ycombinator.com_best/https___news.ycombinator.com_vote_id=42268580&how=up&goto=best.html
+Data Start Line: 4356
+Data End Line: 4363
+----------------------------------

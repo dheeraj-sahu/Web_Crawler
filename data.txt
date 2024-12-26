@@ -1,0 +1,4363 @@
+top links | hacker news
+hacker news
+new
+ | 
+past
+ | 
+comments
+ | 
+ask
+ | 
+show
+ | 
+jobs
+ | 
+submit
+ | 
+best
+            
+login
+1.
+      
+send someone you appreciate an official &#x27;continue and persist&#x27; letter
+ (
+continueandpersist.org
+)
+1293 points
+ by 
+adnanaga
+ 
+1 day ago
+ 
+ | 
+214&nbsp;comments
+        
+2.
+      
+malware can turn off webcam led and record video, demonstrated on thinkpad x230
+ (
+github.com/xairy
+)
+1005 points
+ by 
+xairy
+ 
+2 days ago
+ 
+ | 
+511&nbsp;comments
+        
+3.
+      
+icc issues warrants for netanyahu, gallant, and hamas officials
+ (
+icc-cpi.int
+)
+884 points
+ by 
+runarberg
+ 
+8 days ago
+ 
+ | 
+1014&nbsp;comments
+        
+4.
+      
+model context protocol
+ (
+anthropic.com
+)
+860 points
+ by 
+benocodes
+ 
+4 days ago
+ 
+ | 
+256&nbsp;comments
+        
+5.
+      
+rfc 35140: http do-not-stab (2023)
+ (
+5snb.club
+)
+798 points
+ by 
+zkldi
+ 
+5 days ago
+ 
+ | 
+210&nbsp;comments
+        
+6.
+      
+show hn: app that asks ‘why?’ every time you unlock your phone
+ (
+play.google.com
+)
+787 points
+ by 
+jarko27
+ 
+2 days ago
+ 
+ | 
+365&nbsp;comments
+        
+7.
+      
+frosted glass from games to the web
+ (
+tyleo.com
+)
+782 points
+ by 
+tyleo
+ 
+6 days ago
+ 
+ | 
+191&nbsp;comments
+        
+8.
+      
+undergraduates with family income below $200k will be tuition-free at mit
+ (
+news.mit.edu
+)
+730 points
+ by 
+gnabgib
+ 
+9 days ago
+ 
+ | 
+456&nbsp;comments
+        
+9.
+      
+this website is hosted on bluesky
+ (
+danielmangum.com
+)
+709 points
+ by 
+hasheddan
+ 
+5 days ago
+ 
+ | 
+170&nbsp;comments
+        
+10.
+      
+starlink direct to cell
+ (
+starlink.com
+)
+708 points
+ by 
+tosh
+ 
+5 days ago
+ 
+ | 
+795&nbsp;comments
+        
+11.
+      
+everyone is capable of, and can benefit from, mathematical thinking
+ (
+quantamagazine.org
+)
+664 points
+ by 
+sonabinu
+ 
+9 days ago
+ 
+ | 
+402&nbsp;comments
+        
+12.
+      
+amazon to invest another $4b in anthropic
+ (
+cnbc.com
+)
+658 points
+ by 
+swyx
+ 
+7 days ago
+ 
+ | 
+361&nbsp;comments
+        
+13.
+      
+denmark will plant 1b trees and convert 10% of farmland into forest
+ (
+apnews.com
+)
+654 points
+ by 
+geox
+ 
+5 days ago
+ 
+ | 
+466&nbsp;comments
+        
+14.
+      
+what is the origin of the lake tank image that has become a meme? (2021)
+ (
+history.stackexchange.com
+)
+628 points
+ by 
+napolux
+ 
+9 days ago
+ 
+ | 
+150&nbsp;comments
+        
+15.
+      
+sqlitestudio: create, edit, browse sqlite databases
+ (
+sqlitestudio.pl
+)
+612 points
+ by 
+thunderbong
+ 
+5 days ago
+ 
+ | 
+123&nbsp;comments
+        
+16.
+      
+show hn: a marble madness-inspired webgl game we built for netlify
+ (
+5-million-devs.netlify.com
+)
+611 points
+ by 
+franck
+ 
+7 days ago
+ 
+ | 
+230&nbsp;comments
+        
+17.
+      
+phased array microphone (2023)
+ (
+benwang.dev
+)
+599 points
+ by 
+bglazer
+ 
+7 days ago
+ 
+ | 
+185&nbsp;comments
+        
+18.
+      
+aaa – analytical anti-aliasing
+ (
+frost.kiwi
+)
+597 points
+ by 
+todsacerdoti
+ 
+9 days ago
+ 
+ | 
+95&nbsp;comments
+        
+19.
+      
+yi peng 3 crossed both cables c-lion 1 and bsc at times matching when they broke
+ (
+bsky.app
+)
+584 points
+ by 
+perihelions
+ 
+9 days ago
+ 
+ | 
+729&nbsp;comments
+        
+20.
+      
+show hn: llama 3.2 interpretability with sparse autoencoders
+ (
+github.com/paulpauls
+)
+576 points
+ by 
+paulpauls
+ 
+8 days ago
+ 
+ | 
+98&nbsp;comments
+        
+21.
+      
+the two factions of c++
+ (
+herecomesthemoon.net
+)
+547 points
+ by 
+cyclopeanutopia
+ 
+5 days ago
+ 
+ | 
+652&nbsp;comments
+        
+22.
+      
+handling cookies is a minefield
+ (
+grayduck.mn
+)
+544 points
+ by 
+todsacerdoti
+ 
+8 days ago
+ 
+ | 
+252&nbsp;comments
+        
+23.
+      
+let&#x27;s encrypt is 10 years old now
+ (
+letsencrypt.org
+)
+539 points
+ by 
+gslin
+ 
+10 days ago
+ 
+ | 
+189&nbsp;comments
+        
+24.
+      
+the capacitor that apple soldered incorrectly at the factory
+ (
+downtowndougbrown.com
+)
+528 points
+ by 
+zdw
+ 
+3 days ago
+ 
+ | 
+250&nbsp;comments
+        
+25.
+      
+amazon s3 adds put-if-match (compare-and-swap)
+ (
+amazon.com
+)
+522 points
+ by 
+sirupsen
+ 
+4 days ago
+ 
+ | 
+157&nbsp;comments
+        
+26.
+      
+ok, i can partly explain the llm chess weirdness now
+ (
+dynomight.net
+)
+522 points
+ by 
+dmazin
+ 
+8 days ago
+ 
+ | 
+460&nbsp;comments
+        
+27.
+      
+highest-resolution images ever captured of the sun’s surface
+ (
+smithsonianmag.com
+)
+518 points
+ by 
+brajeshwar
+ 
+6 days ago
+ 
+ | 
+134&nbsp;comments
+        
+28.
+      
+the ux of lego interface panels (2020)
+ (
+interactionmagic.com
+)
+496 points
+ by 
+rcdemski
+ 
+1 day ago
+ 
+ | 
+44&nbsp;comments
+        
+29.
+      
+epic allows internet archive to distribute unreal and unreal tournament forever
+ (
+techdirt.com
+)
+486 points
+ by 
+chocmake
+ 
+10 days ago
+ 
+ | 
+116&nbsp;comments
+        
+30.
+      
+php 8.4
+ (
+php.net
+)
+479 points
+ by 
+thethree
+ 
+8 days ago
+ 
+ | 
+321&nbsp;comments
+        
+more
+    
+guidelines
+ | 
+faq
+ | 
+lists
+ | 
+api
+ | 
+security
+ | 
+legal
+ | 
+apply to yc
+ | 
+contact
+search: 
+      
+hacker news
+hacker news
+new
+ | 
+past
+ | 
+comments
+ | 
+ask
+ | 
+show
+ | 
+jobs
+ | 
+submit
+            
+login
+1.
+      
+geometric line-art of wacław szpakowski (2017)
+ (
+theparisreview.org
+)
+27 points
+ by 
+bookofjoe
+ 
+1 hour ago
+ 
+ | 
+hide
+ | 
+3&nbsp;comments
+        
+2.
+      
+engineering sleep
+ (
+minjunes.ai
+)
+26 points
+ by 
+amin
+ 
+1 hour ago
+ 
+ | 
+hide
+ | 
+4&nbsp;comments
+        
+3.
+      
+breaking the 4chan captcha
+ (
+nullpt.rs
+)
+285 points
+ by 
+hazebooth
+ 
+9 hours ago
+ 
+ | 
+hide
+ | 
+138&nbsp;comments
+        
+4.
+      
+nodezator is a generalist python node editor
+ (
+github.com/indiepython
+)
+7 points
+ by 
+mariuz
+ 
+1 hour ago
+ 
+ | 
+hide
+ | 
+discuss
+        
+5.
+      
+the revised si of physical units (2019), max planck (1900), and &#x27;planck scale&#x27;
+ (
+osf.io
+)
+8 points
+ by 
+mike_ivanov
+ 
+1 hour ago
+ 
+ | 
+hide
+ | 
+discuss
+        
+6.
+      
+archaeometallurgical investigation of the nebra sky disc
+ (
+nature.com
+)
+4 points
+ by 
+archelaos
+ 
+1 hour ago
+ 
+ | 
+hide
+ | 
+discuss
+        
+7.
+      
+the influence of bell labs
+ (
+construction-physics.com
+)
+127 points
+ by 
+mooreds
+ 
+11 hours ago
+ 
+ | 
+hide
+ | 
+68&nbsp;comments
+        
+8.
+      
+the hall sc-vga-2 video processor, the atari st and nextstep
+ (
+oldvcr.blogspot.com
+)
+36 points
+ by 
+todsacerdoti
+ 
+8 hours ago
+ 
+ | 
+hide
+ | 
+8&nbsp;comments
+        
+9.
+      
+everything you never wanted to know about linker script (2021)
+ (
+mcyoung.xyz
+)
+28 points
+ by 
+thunderbong
+ 
+6 hours ago
+ 
+ | 
+hide
+ | 
+4&nbsp;comments
+        
+10.
+      
+deepthought-8b: a small, capable reasoning model
+ (
+ruliad.co
+)
+13 points
+ by 
+anhtho_fr
+ 
+6 hours ago
+ 
+ | 
+hide
+ | 
+1&nbsp;comment
+        
+11.
+      
+understanding simd: infinite complexity of trivial problems
+ (
+modular.com
+)
+147 points
+ by 
+verdagon
+ 
+18 hours ago
+ 
+ | 
+hide
+ | 
+55&nbsp;comments
+        
+12.
+      
+cause of rare devastating, autoimmune disease in puerto ricans–and possible cure
+ (
+medicalxpress.com
+)
+6 points
+ by 
+wglb
+ 
+3 hours ago
+ 
+ | 
+hide
+ | 
+discuss
+        
+13.
+      
+what does this button do? – my new car has a mysterious and undocumented switch
+ (
+koenvh.nl
+)
+318 points
+ by 
+koenvh
+ 
+10 hours ago
+ 
+ | 
+hide
+ | 
+211&nbsp;comments
+        
+14.
+      
+nasa&#x27;s europa clipper: miles down, instruments deploying
+ (
+nasa.gov
+)
+66 points
+ by 
+rbanffy
+ 
+6 hours ago
+ 
+ | 
+hide
+ | 
+20&nbsp;comments
+        
+15.
+      
+lessons from 15 years of indie app development
+ (
+lukaspetr.com
+)
+50 points
+ by 
+lukas_petr
+ 
+8 hours ago
+ 
+ | 
+hide
+ | 
+8&nbsp;comments
+        
+16.
+      
+neomacs: structural lisp ide&#x2f;browser&#x2f;computing environment
+ (
+github.com/neomacs-project
+)
+18 points
+ by 
+kscarlet
+ 
+9 hours ago
+ 
+ | 
+hide
+ | 
+4&nbsp;comments
+        
+17.
+      
+core copyright violation moves ahead in the intercept&#x27;s lawsuit against openai
+ (
+niemanlab.org
+)
+209 points
+ by 
+giuliomagnifico
+ 
+16 hours ago
+ 
+ | 
+hide
+ | 
+199&nbsp;comments
+        
+18.
+      
+kitagawa utamaro japanese painter
+ (
+theartstory.org
+)
+3 points
+ by 
+rawgabbit
+ 
+5 hours ago
+ 
+ | 
+hide
+ | 
+discuss
+        
+19.
+      
+summary of &quot;improvising cellular playgrounds in realtalk&quot;, aug 2023 [video]
+ (
+youtube.com
+)
+23 points
+ by 
+meanie
+ 
+13 hours ago
+ 
+ | 
+hide
+ | 
+2&nbsp;comments
+        
+20.
+      
+engineers do not get to make startup mistakes when they build ledgers
+ (
+alvaroduran.com
+)
+456 points
+ by 
+fagnerbrack
+ 
+1 day ago
+ 
+ | 
+hide
+ | 
+445&nbsp;comments
+        
+21.
+      
+perhaps acquiring pixelmator is about competing with creative cloud
+ (
+daringfireball.net
+)
+77 points
+ by 
+robenkleene
+ 
+19 hours ago
+ 
+ | 
+hide
+ | 
+54&nbsp;comments
+        
+22.
+      
+ask hn: platform for senior devs to learn other programming languages?
+74 points
+ by 
+raed667
+ 
+9 hours ago
+ 
+ | 
+hide
+ | 
+34&nbsp;comments
+        
+23.
+      
+a statistical approach to model evaluations
+ (
+anthropic.com
+)
+49 points
+ by 
+robinhirst11
+ 
+14 hours ago
+ 
+ | 
+hide
+ | 
+14&nbsp;comments
+        
+24.
+      
+borgo programming language
+ (
+borgo-lang.github.io
+)
+312 points
+ by 
+mrbuddycasino
+ 
+1 day ago
+ 
+ | 
+hide
+ | 
+135&nbsp;comments
+        
+25.
+      
+show hn: it took me 5() months to build a plausible alternative
+10 points
+ by 
+avfrosta
+ 
+6 hours ago
+ 
+ | 
+hide
+ | 
+12&nbsp;comments
+        
+26.
+      
+mirror, mirror on the wall, what is the best topology of them all?
+ (
+acm.org
+)
+55 points
+ by 
+rbanffy
+ 
+23 hours ago
+ 
+ | 
+hide
+ | 
+3&nbsp;comments
+        
+27.
+      
+       
+sieve (yc w22) is hiring engineers to build the future of video ai
+ (
+sievedata.com
+)
+13 hours ago
+ | 
+hide
+      
+28.
+      
+german wwii soldier grave found with mesolithic tools, roman and byzantine coins
+ (
+labrujulaverde.com
+)
+77 points
+ by 
+petethomas
+ 
+22 hours ago
+ 
+ | 
+hide
+ | 
+76&nbsp;comments
+        
+29.
+      
+oldest us firearm unearthed in arizona, a bronze cannon linked to coronado
+ (
+phys.org
+)
+49 points
+ by 
+pseudolus
+ 
+13 hours ago
+ 
+ | 
+hide
+ | 
+21&nbsp;comments
+        
+30.
+      
+why pipes sometimes get &quot;stuck&quot;: buffering
+ (
+jvns.ca
+)
+343 points
+ by 
+tanelpoder
+ 
+13 hours ago
+ 
+ | 
+hide
+ | 
+85&nbsp;comments
+        
+more
+    
+guidelines
+ | 
+faq
+ | 
+lists
+ | 
+api
+ | 
+security
+ | 
+legal
+ | 
+apply to yc
+ | 
+contact
+search: 
+      
+hacker news
+hacker news
+new
+ | 
+past
+ | 
+comments
+ | 
+ask
+ | 
+show
+ | 
+jobs
+ | 
+submit
+            
+login
+1.
+      
+geometric line-art of wacław szpakowski (2017)
+ (
+theparisreview.org
+)
+27 points
+ by 
+bookofjoe
+ 
+1 hour ago
+ 
+ | 
+hide
+ | 
+3&nbsp;comments
+        
+2.
+      
+engineering sleep
+ (
+minjunes.ai
+)
+26 points
+ by 
+amin
+ 
+1 hour ago
+ 
+ | 
+hide
+ | 
+3&nbsp;comments
+        
+3.
+      
+breaking the 4chan captcha
+ (
+nullpt.rs
+)
+285 points
+ by 
+hazebooth
+ 
+9 hours ago
+ 
+ | 
+hide
+ | 
+138&nbsp;comments
+        
+4.
+      
+nodezator is a generalist python node editor
+ (
+github.com/indiepython
+)
+7 points
+ by 
+mariuz
+ 
+1 hour ago
+ 
+ | 
+hide
+ | 
+discuss
+        
+5.
+      
+the revised si of physical units (2019), max planck (1900), and &#x27;planck scale&#x27;
+ (
+osf.io
+)
+8 points
+ by 
+mike_ivanov
+ 
+1 hour ago
+ 
+ | 
+hide
+ | 
+discuss
+        
+6.
+      
+archaeometallurgical investigation of the nebra sky disc
+ (
+nature.com
+)
+4 points
+ by 
+archelaos
+ 
+1 hour ago
+ 
+ | 
+hide
+ | 
+discuss
+        
+7.
+      
+the influence of bell labs
+ (
+construction-physics.com
+)
+127 points
+ by 
+mooreds
+ 
+11 hours ago
+ 
+ | 
+hide
+ | 
+68&nbsp;comments
+        
+8.
+      
+the hall sc-vga-2 video processor, the atari st and nextstep
+ (
+oldvcr.blogspot.com
+)
+36 points
+ by 
+todsacerdoti
+ 
+8 hours ago
+ 
+ | 
+hide
+ | 
+8&nbsp;comments
+        
+9.
+      
+everything you never wanted to know about linker script (2021)
+ (
+mcyoung.xyz
+)
+28 points
+ by 
+thunderbong
+ 
+6 hours ago
+ 
+ | 
+hide
+ | 
+4&nbsp;comments
+        
+10.
+      
+deepthought-8b: a small, capable reasoning model
+ (
+ruliad.co
+)
+13 points
+ by 
+anhtho_fr
+ 
+6 hours ago
+ 
+ | 
+hide
+ | 
+1&nbsp;comment
+        
+11.
+      
+understanding simd: infinite complexity of trivial problems
+ (
+modular.com
+)
+147 points
+ by 
+verdagon
+ 
+18 hours ago
+ 
+ | 
+hide
+ | 
+55&nbsp;comments
+        
+12.
+      
+cause of rare devastating, autoimmune disease in puerto ricans–and possible cure
+ (
+medicalxpress.com
+)
+6 points
+ by 
+wglb
+ 
+2 hours ago
+ 
+ | 
+hide
+ | 
+discuss
+        
+13.
+      
+what does this button do? – my new car has a mysterious and undocumented switch
+ (
+koenvh.nl
+)
+318 points
+ by 
+koenvh
+ 
+10 hours ago
+ 
+ | 
+hide
+ | 
+211&nbsp;comments
+        
+14.
+      
+nasa&#x27;s europa clipper: miles down, instruments deploying
+ (
+nasa.gov
+)
+66 points
+ by 
+rbanffy
+ 
+6 hours ago
+ 
+ | 
+hide
+ | 
+20&nbsp;comments
+        
+15.
+      
+lessons from 15 years of indie app development
+ (
+lukaspetr.com
+)
+50 points
+ by 
+lukas_petr
+ 
+8 hours ago
+ 
+ | 
+hide
+ | 
+8&nbsp;comments
+        
+16.
+      
+neomacs: structural lisp ide&#x2f;browser&#x2f;computing environment
+ (
+github.com/neomacs-project
+)
+18 points
+ by 
+kscarlet
+ 
+9 hours ago
+ 
+ | 
+hide
+ | 
+4&nbsp;comments
+        
+17.
+      
+core copyright violation moves ahead in the intercept&#x27;s lawsuit against openai
+ (
+niemanlab.org
+)
+209 points
+ by 
+giuliomagnifico
+ 
+16 hours ago
+ 
+ | 
+hide
+ | 
+199&nbsp;comments
+        
+18.
+      
+kitagawa utamaro japanese painter
+ (
+theartstory.org
+)
+3 points
+ by 
+rawgabbit
+ 
+5 hours ago
+ 
+ | 
+hide
+ | 
+discuss
+        
+19.
+      
+summary of &quot;improvising cellular playgrounds in realtalk&quot;, aug 2023 [video]
+ (
+youtube.com
+)
+23 points
+ by 
+meanie
+ 
+13 hours ago
+ 
+ | 
+hide
+ | 
+2&nbsp;comments
+        
+20.
+      
+engineers do not get to make startup mistakes when they build ledgers
+ (
+alvaroduran.com
+)
+456 points
+ by 
+fagnerbrack
+ 
+1 day ago
+ 
+ | 
+hide
+ | 
+445&nbsp;comments
+        
+21.
+      
+perhaps acquiring pixelmator is about competing with creative cloud
+ (
+daringfireball.net
+)
+77 points
+ by 
+robenkleene
+ 
+19 hours ago
+ 
+ | 
+hide
+ | 
+54&nbsp;comments
+        
+22.
+      
+ask hn: platform for senior devs to learn other programming languages?
+74 points
+ by 
+raed667
+ 
+9 hours ago
+ 
+ | 
+hide
+ | 
+34&nbsp;comments
+        
+23.
+      
+a statistical approach to model evaluations
+ (
+anthropic.com
+)
+49 points
+ by 
+robinhirst11
+ 
+14 hours ago
+ 
+ | 
+hide
+ | 
+14&nbsp;comments
+        
+24.
+      
+borgo programming language
+ (
+borgo-lang.github.io
+)
+312 points
+ by 
+mrbuddycasino
+ 
+1 day ago
+ 
+ | 
+hide
+ | 
+135&nbsp;comments
+        
+25.
+      
+show hn: it took me 5() months to build a plausible alternative
+10 points
+ by 
+avfrosta
+ 
+6 hours ago
+ 
+ | 
+hide
+ | 
+12&nbsp;comments
+        
+26.
+      
+mirror, mirror on the wall, what is the best topology of them all?
+ (
+acm.org
+)
+55 points
+ by 
+rbanffy
+ 
+23 hours ago
+ 
+ | 
+hide
+ | 
+3&nbsp;comments
+        
+27.
+      
+       
+sieve (yc w22) is hiring engineers to build the future of video ai
+ (
+sievedata.com
+)
+13 hours ago
+ | 
+hide
+      
+28.
+      
+german wwii soldier grave found with mesolithic tools, roman and byzantine coins
+ (
+labrujulaverde.com
+)
+77 points
+ by 
+petethomas
+ 
+22 hours ago
+ 
+ | 
+hide
+ | 
+76&nbsp;comments
+        
+29.
+      
+oldest us firearm unearthed in arizona, a bronze cannon linked to coronado
+ (
+phys.org
+)
+49 points
+ by 
+pseudolus
+ 
+13 hours ago
+ 
+ | 
+hide
+ | 
+21&nbsp;comments
+        
+30.
+      
+why pipes sometimes get &quot;stuck&quot;: buffering
+ (
+jvns.ca
+)
+343 points
+ by 
+tanelpoder
+ 
+13 hours ago
+ 
+ | 
+hide
+ | 
+85&nbsp;comments
+        
+more
+    
+guidelines
+ | 
+faq
+ | 
+lists
+ | 
+api
+ | 
+security
+ | 
+legal
+ | 
+apply to yc
+ | 
+contact
+search: 
+      
+new links | hacker news
+hacker news
+new
+ | 
+past
+ | 
+comments
+ | 
+ask
+ | 
+show
+ | 
+jobs
+ | 
+submit
+            
+login
+1.
+      
+australian f-35 tests expeditionary base concept
+ (
+twz.com
+)
+1 point
+ by 
+peutetre
+ 
+3 minutes ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+discuss
+        
+2.
+      
+the problem with sci-fi body armor
+ (
+acoup.blog
+)
+1 point
+ by 
+tomte
+ 
+5 minutes ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+discuss
+        
+3.
+      
+nuclear fusion startup reaches milestone in bid to commercialize clean energy
+ (
+cnn.com
+)
+1 point
+ by 
+asplake
+ 
+5 minutes ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+discuss
+        
+4.
+      
+drone incursions over usaf bases in uk enter second week
+ (
+twz.com
+)
+1 point
+ by 
+peutetre
+ 
+8 minutes ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+discuss
+        
+5.
+      
+show hn: i built an ai tool for judging people. useful if you are neurodivergent
+ (
+relateable.ai
+)
+1 point
+ by 
+divyanthj
+ 
+11 minutes ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+discuss
+        
+6.
+      
+meta plans to build a $10b subsea cable spanning the world, sources say
+ (
+techcrunch.com
+)
+1 point
+ by 
+ksec
+ 
+13 minutes ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+discuss
+        
+7.
+      
+show hn: lossless compressor that can shrink llama3 to 68%
+ (
+github.com/nadavrot
+)
+3 points
+ by 
+ballslabs90
+ 
+16 minutes ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+discuss
+        
+8.
+      
+why we see digital ads after talking about something
+ (
+mcnuttpartners.com
+)
+1 point
+ by 
+behnamoh
+ 
+17 minutes ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+discuss
+        
+9.
+      
+understanding digital marketing ecosystem spreading pro-prc influence operations
+ (
+cloud.google.com
+)
+2 points
+ by 
+yftsui
+ 
+29 minutes ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+discuss
+        
+10.
+      
+loser lane
+ (
+marieflanagan.com
+)
+1 point
+ by 
+debo_
+ 
+29 minutes ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+discuss
+        
+11.
+      
+exploit logofail to install bootkitty linux backdoor
+ (
+arstechnica.com
+)
+1 point
+ by 
+ainohy6g
+ 
+29 minutes ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+discuss
+        
+12.
+      
+blam scripting language
+ (
+reclaimers.net
+)
+1 point
+ by 
+thefreim
+ 
+37 minutes ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+discuss
+        
+13.
+      
+breaking down the doj&#x27;s plan to end google&#x27;s search monopoly
+ (
+theverge.com
+)
+2 points
+ by 
+aspenmayer
+ 
+37 minutes ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+discuss
+        
+14.
+      
+surveymoji – the easiest way to get realtime feedback with a link&#x2f;qr code
+ (
+surveymoji.com
+)
+1 point
+ by 
+zoidb
+ 
+37 minutes ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+1&nbsp;comment
+        
+15.
+      
+the complexities of enabling opencl support
+ (
+catfox.life
+)
+1 point
+ by 
+todsacerdoti
+ 
+42 minutes ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+discuss
+        
+16.
+      
+making screenshots of test equipment old and new
+ (
+tomverbeure.github.io
+)
+3 points
+ by 
+zdw
+ 
+49 minutes ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+discuss
+        
+17.
+      
+show hn: clone yourself using twitter profile
+ (
+omi.me
+)
+5 points
+ by 
+kodjima33
+ 
+54 minutes ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+discuss
+        
+18.
+      
+large database of black friday tech deals 2024
+ (
+lifetimo.com
+)
+1 point
+ by 
+nanovision
+ 
+57 minutes ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+discuss
+        
+19.
+      
+show hn: i&#x27;m collecting great newsletter and email examples
+ (
+exampleemails.com
+)
+1 point
+ by 
+jackculpan
+ 
+1 hour ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+discuss
+        
+20.
+      
+a curated list of model context protocol (mcp) servers
+ (
+github.com/punkpeye
+)
+2 points
+ by 
+punkpeye
+ 
+1 hour ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+discuss
+        
+21.
+      
+show hn: private markdown-based note taking
+ (
+octarine.app
+)
+2 points
+ by 
+rajatkulk
+ 
+1 hour ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+discuss
+        
+22.
+      
+the six leadership styles
+ (
+leadershipahoy.com
+)
+1 point
+ by 
+youniverse
+ 
+1 hour ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+discuss
+        
+23.
+      
+ieee interim report on arithmetic formats for machine learning [pdf]
+ (
+github.com/p3109
+)
+3 points
+ by 
+haozeke
+ 
+1 hour ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+discuss
+        
+24.
+      
+stripe bfcm live
+ (
+stripe.com
+)
+6 points
+ by 
+cosmosseb
+ 
+1 hour ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+1&nbsp;comment
+        
+25.
+      
+show hn: a $0 llm centric portfolio
+ (
+curiousabout.me
+)
+2 points
+ by 
+kitn
+ 
+1 hour ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+discuss
+        
+26.
+      
+the shape of light
+ (
+livescience.com
+)
+3 points
+ by 
+cryptozeus
+ 
+1 hour ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+discuss
+        
+27.
+      
+scientists reveal the first photo of a single photon
+ (
+twitter.com/theprojectunity
+)
+1 point
+ by 
+cryptozeus
+ 
+1 hour ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+discuss
+        
+28.
+      
+&#x27;switches&#x27; are turning handguns into machine guns on ontario streets
+ (
+cbc.ca
+)
+12 points
+ by 
+colinprince
+ 
+1 hour ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+10&nbsp;comments
+        
+29.
+      
+ai summarizer powered by chrome&#x27;s built-in gemini nano
+ (
+chromewebstore.google.com
+)
+1 point
+ by 
+gigaarpit
+ 
+1 hour ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+discuss
+        
+30.
+      
+engineering sleep
+ (
+minjunes.ai
+)
+26 points
+ by 
+amin
+ 
+1 hour ago
+ 
+ | 
+hide
+ | 
+past
+ | 
+4&nbsp;comments
+        
+more
+    
+guidelines
+ | 
+faq
+ | 
+lists
+ | 
+api
+ | 
+security
+ | 
+legal
+ | 
+apply to yc
+ | 
+contact
+search: 
+      
+2024-11-29 front | hacker news
+hacker news
+new
+ | 
+past
+ | 
+comments
+ | 
+ask
+ | 
+show
+ | 
+jobs
+ | 
+submit
+ | 
+2024-11-29
+            
+login
+stories from november 29, 2024 (utc)
+go back a 
+day
+, 
+month
+, or 
+year
+. go forward a 
+day
+.
+1.
+      
+send someone you appreciate an official &#x27;continue and persist&#x27; letter
+ (
+continueandpersist.org
+)
+1293 points
+ by 
+adnanaga
+ 
+1 day ago
+ 
+ | 
+214&nbsp;comments
+        
+2.
+      
+engineers do not get to make startup mistakes when they build ledgers
+ (
+alvaroduran.com
+)
+456 points
+ by 
+fagnerbrack
+ 
+1 day ago
+ 
+ | 
+445&nbsp;comments
+        
+3.
+      
+show hn: screen sharing in the browser
+ (
+github.com/tonghohin
+)
+199 points
+ by 
+tonghohin
+ 
+1 day ago
+ 
+ | 
+42&nbsp;comments
+        
+4.
+      
+borgo programming language
+ (
+borgo-lang.github.io
+)
+312 points
+ by 
+mrbuddycasino
+ 
+3 days ago
+ 
+ | 
+135&nbsp;comments
+        
+5.
+      
+show hn: vince – a self hosted alternative to google analytics
+ (
+github.com/vinceanalytics
+)
+239 points
+ by 
+gernest
+ 
+1 day ago
+ 
+ | 
+66&nbsp;comments
+        
+6.
+      
+core copyright violation moves ahead in the intercept&#x27;s lawsuit against openai
+ (
+niemanlab.org
+)
+209 points
+ by 
+giuliomagnifico
+ 
+16 hours ago
+ 
+ | 
+199&nbsp;comments
+        
+7.
+      
+why pipes sometimes get &quot;stuck&quot;: buffering
+ (
+jvns.ca
+)
+343 points
+ by 
+tanelpoder
+ 
+13 hours ago
+ 
+ | 
+85&nbsp;comments
+        
+8.
+      
+william james and the philosophy of pragmatism (2018)
+ (
+neh.gov
+)
+96 points
+ by 
+prismatic
+ 
+4 days ago
+ 
+ | 
+37&nbsp;comments
+        
+9.
+      
+llama.cpp guide – running llms locally on any hardware, from scratch
+ (
+steelph0enix.github.io
+)
+327 points
+ by 
+zarekr
+ 
+14 hours ago
+ 
+ | 
+67&nbsp;comments
+        
+10.
+      
+understanding simd: infinite complexity of trivial problems
+ (
+modular.com
+)
+147 points
+ by 
+verdagon
+ 
+4 days ago
+ 
+ | 
+55&nbsp;comments
+        
+11.
+      
+the trouble with struct sockaddr&#x27;s fake flexible array
+ (
+lwn.net
+)
+90 points
+ by 
+signa11
+ 
+1 day ago
+ 
+ | 
+54&nbsp;comments
+        
+12.
+      
+prioritize work at the task level
+ (
+developer.apple.com
+)
+122 points
+ by 
+tosh
+ 
+3 days ago
+ 
+ | 
+26&nbsp;comments
+        
+13.
+      
+show hn: indentation-based syntax for clojure
+ (
+github.com/ilevd
+)
+71 points
+ by 
+ilevd
+ 
+4 days ago
+ 
+ | 
+45&nbsp;comments
+        
+14.
+      
+an intuitive explanation of sparse autoencoders for llm interpretability
+ (
+adamkarvonen.github.io
+)
+85 points
+ by 
+sebg
+ 
+1 day ago
+ 
+ | 
+2&nbsp;comments
+        
+15.
+      
+summary of &quot;improvising cellular playgrounds in realtalk&quot;, aug 2023 [video]
+ (
+youtube.com
+)
+23 points
+ by 
+meanie
+ 
+4 days ago
+ 
+ | 
+2&nbsp;comments
+        
+16.
+      
+what does this button do? – my new car has a mysterious and undocumented switch
+ (
+koenvh.nl
+)
+318 points
+ by 
+koenvh
+ 
+10 hours ago
+ 
+ | 
+211&nbsp;comments
+        
+17.
+      
+german wwii soldier grave found with mesolithic tools, roman and byzantine coins
+ (
+labrujulaverde.com
+)
+77 points
+ by 
+petethomas
+ 
+10 days ago
+ 
+ | 
+76&nbsp;comments
+        
+18.
+      
+breaking the 4chan captcha
+ (
+nullpt.rs
+)
+285 points
+ by 
+hazebooth
+ 
+9 hours ago
+ 
+ | 
+138&nbsp;comments
+        
+19.
+      
+mechanical engineer creates instruments for his one-man metal band (2022)
+ (
+revolvermag.com
+)
+62 points
+ by 
+tuumi
+ 
+4 days ago
+ 
+ | 
+26&nbsp;comments
+        
+20.
+      
+mirror, mirror on the wall, what is the best topology of them all?
+ (
+acm.org
+)
+55 points
+ by 
+rbanffy
+ 
+4 days ago
+ 
+ | 
+3&nbsp;comments
+        
+21.
+      
+spotify has shut down several api endpoints
+ (
+spotify.com
+)
+275 points
+ by 
+leecoursey
+ 
+2 days ago
+ 
+ | 
+272&nbsp;comments
+        
+22.
+      
+chinese pebble-bed nuclear reactor passes &quot;meltdown&quot; test
+ (
+ans.org
+)
+133 points
+ by 
+bilekas
+ 
+12 hours ago
+ 
+ | 
+62&nbsp;comments
+        
+23.
+      
+car tires shed a quarter of all microplastics in the environment
+ (
+phys.org
+)
+278 points
+ by 
+geox
+ 
+1 day ago
+ 
+ | 
+300&nbsp;comments
+        
+24.
+      
+simple sabotage for the 21st century – specific suggestions
+ (
+specificsuggestions.com
+)
+106 points
+ by 
+roblach
+ 
+11 hours ago
+ 
+ | 
+58&nbsp;comments
+        
+25.
+      
+how we got the lithium-ion battery
+ (
+construction-physics.com
+)
+72 points
+ by 
+jumpcrisscross
+ 
+16 hours ago
+ 
+ | 
+20&nbsp;comments
+        
+26.
+      
+a statistical approach to model evaluations
+ (
+anthropic.com
+)
+49 points
+ by 
+robinhirst11
+ 
+6 days ago
+ 
+ | 
+14&nbsp;comments
+        
+27.
+      
+perhaps acquiring pixelmator is about competing with creative cloud
+ (
+daringfireball.net
+)
+77 points
+ by 
+robenkleene
+ 
+4 days ago
+ 
+ | 
+54&nbsp;comments
+        
+28.
+      
+how much memory do you need in 2024 to run 1m concurrent tasks?
+ (
+hez2010.github.io
+)
+255 points
+ by 
+neonsunset
+ 
+1 day ago
+ 
+ | 
+183&nbsp;comments
+        
+29.
+      
+jank is now running on llvm ir
+ (
+jank-lang.org
+)
+79 points
+ by 
+jeaye
+ 
+10 hours ago
+ 
+ | 
+13&nbsp;comments
+        
+30.
+      
+aftershock ii
+ (
+uscrpl.com
+)
+47 points
+ by 
+defrost
+ 
+6 days ago
+ 
+ | 
+3&nbsp;comments
+        
+more
+    
+guidelines
+ | 
+faq
+ | 
+lists
+ | 
+api
+ | 
+security
+ | 
+legal
+ | 
+apply to yc
+ | 
+contact
+search: 
+      
+new comments | hacker news
+hacker news
+new
+ | 
+past
+ | 
+comments
+ | 
+ask
+ | 
+show
+ | 
+jobs
+ | 
+submit
+            
+login
+    
+    
+rdtsc
+ 
+0 minutes ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+&#x27;switches&#x27; are turning handguns into machine guns ...
+          
+i guess it depends why they are shooting. is it to injure or kill as many people in an area, or shoot a particular individual at some considerable distance. i think the gp post is looking at from the perspective of the gun owner? even from their perspective it may not make sense to modify the weapon. obviously, not shooting at all and injuring anyone is the best, in general.
+    
+    
+nosefurhairdo
+ 
+0 minutes ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+engineering sleep
+          
+for the afficionados, there&#x27;s an excellent paper titled &quot;the neurobiological basis of narcolepsy&quot; published in nature reviews neuroscience which examines the relationship between orexin and sleep as it relates to narcolepsy patients: 
+https:&#x2f;&#x2f;pmc.ncbi.nlm.nih.gov&#x2f;articles&#x2f;pmc6492289&#x2f;
+in narcolepsy type 1 (nt1), patients have severely diminished orexin levels. this appears to cause them to inappropriately enter rem sleep.
+op notes that the mutation lowering the sleep requirement causes an increase in orexin. i wonder whether the increased orexin could be inhibiting rem and perhaps facilitating a more restful architecture of sleep. alternatively, perhaps elevated orexin levels during the day cause wakefulness such that you just don&#x27;t need as much sleep, regardless of how efficient the sleep is.
+it would be interesting to compare sleep tracking data of people with and without this mutation to see if there are significant differences in time spent in different sleep stages.
+    
+    
+raincole
+ 
+0 minutes ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+core copyright violation moves ahead in the interc...
+          
+open ai scrapping copyrighted materials to make a proprietary model is the 
+exact
+ opposite of what gnu promotes.
+    
+    
+zwnow
+ 
+1 minute ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+don&#x27;t fuck with scroll
+          
+i&#x27;d buy new glasses.
+    
+    
+subarctic
+ 
+1 minute ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+gen z&#x27;s definition of financial success includes j...
+          
+yup it&#x27;s like being a millionaire was years ago. these days if you have a net worth of $1 million it means you have a house with a mostly or partly paid off mortgage
+    
+    
+zwnow
+ 
+1 minute ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+don&#x27;t fuck with scroll
+          
+cry about it lmao.
+    
+    
+abhgh
+ 
+1 minute ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+a statistical approach to model evaluations
+          
+personal sad story, but hopefully relevant: during my recent phd i worked on a problem where i used a dirichlet process in my solution. that paper has been bouncing around for the past few years getting rejected from every venue i have submitted it to. my interpretation is that most reviewers (there are exceptions) don&#x27;t understand any non-dl theory anymore and are not willing to read up for the sake of a fair review. this is based on their comments, where we have been told that our solution is complex (maybe? - but no one suggests an alternative), exposition is not clear (we have rewritten the paper a few times - we rewrite it based on comments from venue i to submit to venue i+1 - its a wild goose chase), and in one case, someone said the paper is derivative because it uses blackwell-macqueen sampling; their evidence? - they skimmed through a paper we had cited that also used the sampling algorithm. this is like saying a paper is derivative because it uses sgd.
+i am on the review panel of some conferences too and it is not uncommon to be assigned a paper outside of my comfort zone. that doesn&#x27;t mean i cut and bail. you set aside time, read up on the area, ask authors questions, and judge accordingly. unfortunately this doesn&#x27;t happen most of the time - people seem to be in a rush to finish their review no matter the quality. at this point, we just mechanically keep resubmitting the paper every once a while.
+sorry, end of rant :)
+    
+    
+fatbird
+ 
+1 minute ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+rust: tools (early access edition)
+          
+you have direct evidence above that the book cover is 
+not
+ a superficial thing.  if you don&#x27;t take this into account, then you&#x27;re not a serious author.
+    
+    
+tw04
+ 
+2 minutes ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+sol-ark manufacturer reportedly disables all deye ...
+          
+not sure why sol-ark is getting blamed.
+people were buying chinese inverters meant for the chinese market off aliexpress on the gray market and shipping them to other countries.  deye decided to crack down on the behavior.
+there’s nothing indicating this has anything to do with sol-ark at this point other than them being the approved distributor of rebranded deye inverters in the us.
+    
+    
+ehnto
+ 
+2 minutes ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+what does this button do? – my new car has a myste...
+          
+i love hardware mysteries.
+i mostly drive old 90s enthusiast cars, and i have had my fair share of undocumented switches.
+the most surprising to date was in a nissan silvia, from 1989. sometimes it wouldn&#x27;t crank off the key, given the solution chosen it must have been a wiring issue. instead of fixing that wiring, the previous owner had directly wired power to the starter via a &quot;missle switch&quot; style switch, and instead of mounting it anywhere remotely useful, it was just spliced into the loom and sat on top of the rocker cover in the engine bay.
+so if it wouldn&#x27;t start, i had to leave the key at &quot;on&quot;, hop out of the car, bump that switch and then it would start. obviously standing in front of a manual car while starting it is the dumbest thing next to wiring your starter to a switch in the engine bay. fortunately i never ran myself over.
+    
+    
+elmerfud
+ 
+2 minutes ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+how the pyramids were built with ancient concrete
+          
+i would not agree that it&#x27;s the most plausible theory. it is a hypothesis but what this website is doing is selectively picking there observations to align with their already known conclusion. because when you start digging into all of this stuff, even from these people, you start to get into very fringe theories beyond just a geopolymer limestone. they talk about melting granite and giant lenses and traveling the world and repeating this over and over. some truly outlandish stuff.
+the more outlandish your claims are the bigger the proof needs to be. the only evidence they provide is that geopolymers are a possibility but that has been a well-known thing for many decades. they are lacking a lot of evidence to show this is really how the pyramids and other ancient structures were made.
+    
+    
+nullpt_rs
+ 
+3 minutes ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+breaking the 4chan captcha
+          
+yep, but it can get tricky.
+https:&#x2f;&#x2f;github.com&#x2f;refraction-networking&#x2f;utls
+https:&#x2f;&#x2f;github.com&#x2f;berstend&#x2f;puppeteer-extra
+    
+    
+temporary_31337
+ 
+4 minutes ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+&#x27;switches&#x27; are turning handguns into machine guns ...
+          
+i still take issue with mr snider scaremongering like this- in the unlikely scenario that someone would actually be running around with a 60 round mag glock it would likely jam or overheat anyway.
+    
+    
+worksonmymach
+ 
+4 minutes ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+engineering sleep
+          
+why is it not a survival advantage? probably because we didn&#x27;t work 18 hour days, the extra wakeness would just be used for rest.
+night shifts that anyone can do are still needed if you need tribal watchers, and normal 8hr sleeping people can wake upnand fight when needed.
+in terms of the gene, i am suprised how rare it is (90 families?) given i have met someone who needs only 4hr sleep.
+another point is less sleep doesn&#x27;t mean you can do 2 more hours work a day. that is another vector: how much work per day (physical, mental) can be done.
+    
+    
+laowantong
+ 
+5 minutes ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+geometric line-art of wacław szpakowski (2017)
+          
+a goldmine of logo exercises, where the goal would be to write the shortest program for a given drawing. all of them could be classified by kolmogorov complexity.
+    
+    
+oconnor663
+ 
+5 minutes ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+engineers do not get to make startup mistakes when...
+          
+you can take as many bytes from the output stream as you want, and they should all be indistinguishable from random to someone who can&#x27;t guess the input. (similar to how each of the bytes of a sha-256 hash should appear independently random.) but for example in the catastrophic case where someone found a collision in the default 256-bit blake3 output, they would probably be able to construct colliding outputs of unlimited length with little additional effort.
+    
+    
+yu3zhou4
+ 
+6 minutes ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+geometric line-art of wacław szpakowski (2017)
+          
+i enjoyed the article. never heard of him, despite being polish. somewhat reminds me art of roman opałka
+    
+    
+ejboustany
+ 
+6 minutes ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+create an online shop in 7 minutes – $45&#x2f;year, no ...
+          
+are you looking for a quick and affordable way to create an online shop? with pagepalooza, you can generate a website, add your domain, connect stripe, upload your products, and start selling — all in under 7 minutes.
+this shop is designed for simplicity. you do not have a cart and you can only add products and not items or variations such as colors and sizes. you get a built in checkout page and a product detail page along with an order confirmation email to the buyer and an email for you when someone makes an order. all that is for $45&#x2f;year.
+after generating a website from a single prompt and purchasing the ecommerce extension, you can start building your shop. you can also watch the 7 minute youtube video and follow the steps to launch your shop.
+1. add products
+you can add a “physical”, “digital” or a “service” type of products. when someone purchases any products they will get a confirmation email. if a “digital” product was purchased, the buyer also receives a downloadable link that you insert for the products when creating it.
+2. add the “product cards” ecommerce section
+when you are finished with adding your products, you will need to add the the ecommerce section to the website template. this will add a new section to your website that has the products displayed as cards.
+3. connect your stripe account
+in order for the purchasing part to function and for you to be able to get paid you will need a payment gateway. you will need to sign-up on stripe, fill in your business information and get the api keys.
+4. start selling
+after adding your domain, your products will be available for purchase and displayed on your website.
+whenever the “buy now” button is clicked on a product the user will be directed to a built in checkout page to add their card information and shipping&#x2f;billing addresses.
+pagepalooza is the quickest, effective and affordable way to create an online shop with no hidden fees and only a yearly payment of $45&#x2f;year. this simplified ecommerce system is ideal for a shop with no variations. a simple shop with no cart and the complicated inventory and upselling&#x2f;downwelling system.
+    
+    
+anothername12
+ 
+6 minutes ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+pr process killing morale and productivity
+          
+i have quit places because of their pr process.
+    
+    
+thaumasiotes
+ 
+7 minutes ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+tfl abandons plans for driverless tube trains
+          
+&gt; per mile basis is weird in a metro system because of distortions like how a mile in the centre is both slower and far more in demand than a mile at the edges.
+what&#x27;s the problem supposed to be? passenger-miles automatically take that effect into account. they go down when speed goes down, and up when demand goes up.
+&gt; both slower and far more in demand
+by the way, it sounds like you think this is something strange about a metro system, but higher demand means lower speed for every form of transportation.
+&gt; basically, per passenger served.
+this is a mistake; the guy who crosses the whole city has gotten more value out of the metro system than the guy who goes one stop.
+    
+    
+quantadev
+ 
+8 minutes ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+if not react, then what?
+          
+&gt; can look like
+yeah, but it ain&#x27;t. lol.
+    
+    
+athrowaway3z
+ 
+8 minutes ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+what does this button do? – my new car has a myste...
+          
+people care about privacy. but in our current telling its a hard problem to understand and the costs are too high. the costs are not talking to friends, or not driving a car. so as a coping mechanism people will convince themselves they dont care for privacy.
+the phenomena you&#x27;re describing isn&#x27;t about caring.
+you&#x27;re describing a &quot;trade&quot; in the same way mobsters and conmen do.
+    
+    
+paxys
+ 
+8 minutes ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+gen z&#x27;s definition of financial success includes j...
+          
+$10m is actually pretty spot on for a net worth that would make me feel &quot;rich&quot;.
+    
+    
+endofreach
+ 
+8 minutes ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+what does this button do? – my new car has a myste...
+          
+&gt; modern cars are just smartphones on wheels at this point, and smartphones are just spying devices at this point.
+exactly. i saw a clip of an elon musk interview where he was asked if tesla would ever build a smartphone. i had to chuckle and think to myself, they already do. it just doesn&#x27;t fit in your pocket, has wheels and actually tries to kill you physically.
+    
+    
+cess11
+ 
+9 minutes ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+in praise of print: reading is essential in an era...
+          
+fascism is a phase under capitalism where ideology breaks down and the people in power are split between going into hiding and panicked power grabs through any means available. typically it involves ultra-nationalists taking formal political power and increasing the capitalist totalitarian impulse.
+the state is much, much more &quot;all-embracing&quot; today than what mussolini could ever have imagined, and has been for a long time, decades.
+musk wants a more total influence on the world, he doesn&#x27;t want anyone to be able to say something negative about him, for example. he wants to eradicate large swathes of people, explicitly by making it impossible to talk about them and in practice it will likely boil down to the destruction of their bodies once that fails.
+you&#x27;re obviously sympathetic to this neo-fascist movement. let&#x27;s hope you&#x27;ll manage to leave, because by now it looks like the resistance to it has to get violent.
+    
+    
+totallykvothe
+ 
+9 minutes ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+core copyright violation moves ahead in the interc...
+          
+worble literally did make that comparison. it is possible for comparisons to be made using other rhetorical devices than just saying &quot;i am comparing a to b&quot;.
+    
+    
+metaloha
+ 
+9 minutes ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+ask hn: which tech-stack requires the least knowle...
+          
+you could do a custom wp plugin that provides a single page with everything they need. it doesn&#x27;t have to be in the admin section, just a password-protected page. that way you stay with wp (which will likely be supported for many more years) and php (which will never, ever die) :)
+    
+    
+ricksunny
+ 
+10 minutes ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+the influence of bell labs
+          
+i hope that the #desci movement wlll help with this. researchhub is the closest so far in the soce to putting a financially sustainable crowdsourced research ecosystem together, but its early days.
+    
+    
+dh2022
+ 
+10 minutes ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+&#x27;switches&#x27; are turning handguns into machine guns ...
+          
+how would “send a heap of bullets fast” be less dangerous than “send less bullets”? when a bullet gets out of the gun it has a chance to hurt someone (including innocent people). a bullet that remains in the gun hurts no-one…
+    
+    
+teleforce
+ 
+10 minutes ago
+ 
+          
+parent
+ | 
+context
+ |  on: 
+the influence of bell labs
+          
+if you want to understand and appreciate bell labs innovation eco-system from first hand account and perspective of its researcher while at the same time learning to perform research based innovations, please check this book written by one of its celebrated researchers richard hamming [1].
+[1] the art of doing science and engineering:
+https:&#x2f;&#x2f;press.stripe.com&#x2f;the-art-of-doing-science-and-engine...
+more
+    
+guidelines
+ | 
+faq
+ | 
+lists
+ | 
+api
+ | 
+security
+ | 
+legal
+ | 
+apply to yc
+ | 
+contact
+search: 
+      
+ask | hacker news
+hacker news
+new
+ | 
+past
+ | 
+comments
+ | 
+ask
+ | 
+show
+ | 
+jobs
+ | 
+submit
+            
+login
+1.
+      
+ask hn: platform for senior devs to learn other programming languages?
+74 points
+ by 
+raed667
+ 
+9 hours ago
+ 
+ | 
+34&nbsp;comments
+        
+2.
+      
+hetzner cuts traffic on us vpss, raises prices
+419 points
+ by 
+hyperknot
+ 
+1 day ago
+ 
+ | 
+657&nbsp;comments
+        
+3.
+      
+ask hn: have you created a &#x27;fake&#x27; (pseudo anonymous) social account; if so, why?
+3 points
+ by 
+nomilk
+ 
+3 hours ago
+ 
+ | 
+2&nbsp;comments
+        
+4.
+      
+ask hn: can i download torrent of a movie legally if i own the dvd&#x2f;blueray?
+6 points
+ by 
+punnerud
+ 
+10 hours ago
+ 
+ | 
+15&nbsp;comments
+        
+5.
+      
+ask hn: best practices to control llm responses with user queries?
+2 points
+ by 
+cloudking
+ 
+7 hours ago
+ 
+ | 
+1&nbsp;comment
+        
+6.
+      
+should i worry about being targeted in china as a small hardware startup owner?
+8 points
+ by 
+brazed_blotch
+ 
+6 hours ago
+ 
+ | 
+3&nbsp;comments
+        
+7.
+      
+ask hn: tools or frameworks to build music theory games
+43 points
+ by 
+pil0u
+ 
+2 days ago
+ 
+ | 
+7&nbsp;comments
+        
+8.
+      
+ask hn: what are your most regretted tech purchases?
+92 points
+ by 
+sys_64738
+ 
+4 days ago
+ 
+ | 
+335&nbsp;comments
+        
+9.
+      
+ask hn: what were the best books you read this year?
+91 points
+ by 
+christudor
+ 
+1 day ago
+ 
+ | 
+136&nbsp;comments
+        
+10.
+      
+ask hn: recommendation for a swe looking to get up to speed with latest on ai
+252 points
+ by 
+rizu
+ 
+2 days ago
+ 
+ | 
+94&nbsp;comments
+        
+11.
+      
+ask hn: recommend me some silent movies
+8 points
+ by 
+shreesha_bhan
+ 
+2 days ago
+ 
+ | 
+12&nbsp;comments
+        
+12.
+      
+ask hn: has anyone tried adapting a court reporter keyboard for writing code?
+107 points
+ by 
+actinium226
+ 
+3 days ago
+ 
+ | 
+97&nbsp;comments
+        
+13.
+      
+ask hn: homelab projects to learn linux admin and devops to get hired as one?
+19 points
+ by 
+shivajikobardan
+ 
+2 days ago
+ 
+ | 
+14&nbsp;comments
+        
+14.
+      
+why isn&#x27;t there a fork of signal?
+4 points
+ by 
+max_
+ 
+5 hours ago
+ 
+ | 
+2&nbsp;comments
+        
+15.
+      
+ask hn: things to do on my phone
+29 points
+ by 
+bhag2066
+ 
+1 day ago
+ 
+ | 
+44&nbsp;comments
+        
+16.
+      
+where to learn how to build an a&#x2f;b testing tool?
+14 points
+ by 
+armank-dev
+ 
+1 day ago
+ 
+ | 
+17&nbsp;comments
+        
+17.
+      
+i have 100k of cloud credits to spend in the next 12 months – what do i build?
+5 points
+ by 
+azizjalel1
+ 
+1 day ago
+ 
+ | 
+3&nbsp;comments
+        
+18.
+      
+tell hn: helsinki hn coffee morning
+12 points
+ by 
+calpaterson
+ 
+1 day ago
+ 
+ | 
+2&nbsp;comments
+        
+19.
+      
+has anyone used proton business suite rather than google&#x27;s for a startup?
+50 points
+ by 
+joshszep
+ 
+4 days ago
+ 
+ | 
+36&nbsp;comments
+        
+20.
+      
+ask hn: contracting – dealing with ambiguous requirements and liability
+9 points
+ by 
+hnacct2001
+ 
+2 days ago
+ 
+ | 
+6&nbsp;comments
+        
+21.
+      
+ask hn: how do you approach personal goal tracking systems?
+6 points
+ by 
+boosterhidrogen
+ 
+1 day ago
+ 
+ | 
+3&nbsp;comments
+        
+22.
+      
+ask hn: what makes for a great developer meetup?
+2 points
+ by 
+austin_conlon
+ 
+11 hours ago
+ 
+ | 
+1&nbsp;comment
+        
+23.
+      
+ask hn: should i disclose my disability when applying for jobs?
+20 points
+ by 
+annie_muss
+ 
+3 days ago
+ 
+ | 
+11&nbsp;comments
+        
+24.
+      
+ask hn: small programming projects that would be useful to nepalese?
+2 points
+ by 
+shivajikobardan
+ 
+1 day ago
+ 
+ | 
+6&nbsp;comments
+        
+25.
+      
+ask hn: what&#x27;s the best app for android device automation?
+4 points
+ by 
+martin_a
+ 
+2 days ago
+ 
+ | 
+2&nbsp;comments
+        
+26.
+      
+ask hn: is computer engineering a worthwhile ms degree?
+7 points
+ by 
+jwindle47
+ 
+1 day ago
+ 
+ | 
+5&nbsp;comments
+        
+27.
+      
+ask hn: ai calendar tools – opinions?
+3 points
+ by 
+running4m
+ 
+1 day ago
+ 
+ | 
+3&nbsp;comments
+        
+28.
+      
+ask hn: payment processing for micro saas outside usa?
+25 points
+ by 
+101008
+ 
+6 days ago
+ 
+ | 
+20&nbsp;comments
+        
+29.
+      
+ask hn: how do you psychologically manage being thrown around as an ic?
+29 points
+ by 
+thwwaway8282111
+ 
+3 days ago
+ 
+ | 
+24&nbsp;comments
+        
+30.
+      
+ask hn: good books about architecturing cloud solutions for performance?
+13 points
+ by 
+akkad33
+ 
+3 days ago
+ 
+ | 
+6&nbsp;comments
+        
+more
+    
+guidelines
+ | 
+faq
+ | 
+lists
+ | 
+api
+ | 
+security
+ | 
+legal
+ | 
+apply to yc
+ | 
+contact
+search: 
+      
+show | hacker news
+hacker news
+new
+ | 
+past
+ | 
+comments
+ | 
+ask
+ | 
+show
+ | 
+jobs
+ | 
+submit
+            
+login
+please read the show hn 
+rules
+ and 
+tips
+ before posting. you can browse the newest show hns 
+here
+.
+1.
+      
+show hn: private markdown-based note taking
+ (
+octarine.app
+)
+2 points
+ by 
+rajatkulk
+ 
+1 hour ago
+ 
+ | 
+discuss
+        
+2.
+      
+show hn: a terminal tool for logseq journal entries
+ (
+github.com/jrswab
+)
+4 points
+ by 
+jrswab
+ 
+2 hours ago
+ 
+ | 
+discuss
+        
+3.
+      
+show hn: it took me 5() months to build a plausible alternative
+10 points
+ by 
+avfrosta
+ 
+6 hours ago
+ 
+ | 
+12&nbsp;comments
+        
+4.
+      
+show hn: vince – a self hosted alternative to google analytics
+ (
+github.com/vinceanalytics
+)
+239 points
+ by 
+gernest
+ 
+1 day ago
+ 
+ | 
+66&nbsp;comments
+        
+5.
+      
+show hn: screen sharing in the browser
+ (
+github.com/tonghohin
+)
+199 points
+ by 
+tonghohin
+ 
+1 day ago
+ 
+ | 
+42&nbsp;comments
+        
+6.
+      
+show hn: gogo installs your shell tools
+ (
+github.com/fusion
+)
+2 points
+ by 
+cyansmoker
+ 
+6 hours ago
+ 
+ | 
+discuss
+        
+7.
+      
+show hn: indentation-based syntax for clojure
+ (
+github.com/ilevd
+)
+71 points
+ by 
+ilevd
+ 
+1 day ago
+ 
+ | 
+45&nbsp;comments
+        
+8.
+      
+show hn: app that asks ‘why?’ every time you unlock your phone
+ (
+play.google.com
+)
+787 points
+ by 
+jarko27
+ 
+2 days ago
+ 
+ | 
+365&nbsp;comments
+        
+9.
+      
+show hn: myphotos.site – make a gallery website from google photos
+ (
+myphotos.site
+)
+188 points
+ by 
+gabigrin
+ 
+1 day ago
+ 
+ | 
+80&nbsp;comments
+        
+10.
+      
+show hn: teatime – distributed book library powered by sqlite, ipfs and github
+ (
+github.com/bjesus
+)
+299 points
+ by 
+yoavm
+ 
+2 days ago
+ 
+ | 
+52&nbsp;comments
+        
+11.
+      
+show hn: voice-pro – ai voice cloning
+ (
+github.com/abus-aikorea
+)
+264 points
+ by 
+abuskorea
+ 
+2 days ago
+ 
+ | 
+182&nbsp;comments
+        
+12.
+      
+show hn: double-entry accounting based personal finance app
+ (
+getpaper.money
+)
+56 points
+ by 
+aswinmohanme
+ 
+2 days ago
+ 
+ | 
+17&nbsp;comments
+        
+13.
+      
+show hn: a tool for kids to practice arithmetic
+ (
+agiliq.com
+)
+20 points
+ by 
+shabda
+ 
+11 hours ago
+ 
+ | 
+4&nbsp;comments
+        
+14.
+      
+show hn: feels like paper
+ (
+lukasmoro.com
+)
+255 points
+ by 
+morol
+ 
+2 days ago
+ 
+ | 
+83&nbsp;comments
+        
+15.
+      
+show hn: typesafe sql-like orm and query builders for typescript&#x2f;js
+ (
+litdb.dev
+)
+4 points
+ by 
+mythz
+ 
+15 hours ago
+ 
+ | 
+discuss
+        
+16.
+      
+show hn: airprint bridge: enable airprint for non-airprint printers on macos
+ (
+github.com/sapireli
+)
+59 points
+ by 
+eliransapir
+ 
+2 days ago
+ 
+ | 
+12&nbsp;comments
+        
+17.
+      
+show hn: silent poems – visual expression of unspoken thoughts
+ (
+silentpoems.net
+)
+119 points
+ by 
+laviniap
+ 
+3 days ago
+ 
+ | 
+27&nbsp;comments
+        
+18.
+      
+show hn: clone yourself using twitter profile
+ (
+omi.me
+)
+5 points
+ by 
+kodjima33
+ 
+53 minutes ago
+ 
+ | 
+discuss
+        
+19.
+      
+show hn: myduck server – supercharge mysql and postgres analytics with duckdb
+ (
+github.com/apecloud
+)
+22 points
+ by 
+fanyang01
+ 
+1 day ago
+ 
+ | 
+6&nbsp;comments
+        
+20.
+      
+show hn: liveui – instant mobile ui updates, streamlined design systems
+ (
+live-ui.io
+)
+3 points
+ by 
+crispinluis
+ 
+18 hours ago
+ 
+ | 
+1&nbsp;comment
+        
+21.
+      
+show hn: i built an extension to contact airbnb hosts direcly
+ (
+getaway.direct
+)
+8 points
+ by 
+fliellerjulian
+ 
+19 hours ago
+ 
+ | 
+6&nbsp;comments
+        
+22.
+      
+show hn: we created a module for developers in small to medium-sized companies
+ (
+github.com/errsole
+)
+3 points
+ by 
+mrrishimeena
+ 
+19 hours ago
+ 
+ | 
+discuss
+        
+23.
+      
+show hn: jumping julia maze
+ (
+onrender.com
+)
+33 points
+ by 
+thathoo
+ 
+2 days ago
+ 
+ | 
+15&nbsp;comments
+        
+24.
+      
+show hn: sqlite plugin for jekyll
+ (
+github.com/captn3m0
+)
+225 points
+ by 
+captn3m0
+ 
+3 days ago
+ 
+ | 
+67&nbsp;comments
+        
+25.
+      
+show hn: managed redux toolkit: autogenerate your rtk definitions
+ (
+celestialdb.github.io
+)
+15 points
+ by 
+kritikay
+ 
+21 hours ago
+ 
+ | 
+discuss
+        
+26.
+      
+show hn: coloringsai – custom coloring pages from ideas (my daughter&#x27;s idea)
+ (
+coloringsai.com
+)
+50 points
+ by 
+bakkerinho
+ 
+2 days ago
+ 
+ | 
+29&nbsp;comments
+        
+27.
+      
+show hn: minimal, customizable new tab for chrome&#x2f;firefox
+ (
+flowtide.app
+)
+118 points
+ by 
+georg-stone
+ 
+4 days ago
+ 
+ | 
+83&nbsp;comments
+        
+28.
+      
+show hn: search and analyze sec filings of publicly traded companies with ai
+ (
+publicview.ai
+)
+9 points
+ by 
+ashr_
+ 
+2 days ago
+ 
+ | 
+2&nbsp;comments
+        
+29.
+      
+show hn: multiplayer for retro games online – play with friends anywhere
+ (
+youtube.com
+)
+3 points
+ by 
+patrickcorrigan
+ 
+15 hours ago
+ 
+ | 
+discuss
+        
+30.
+      
+show hn: gemini llm corrects asr youtube transcripts
+ (
+ldenoue.github.io
+)
+176 points
+ by 
+ldenoue
+ 
+4 days ago
+ 
+ | 
+108&nbsp;comments
+        
+more
+    
+guidelines
+ | 
+faq
+ | 
+lists
+ | 
+api
+ | 
+security
+ | 
+legal
+ | 
+apply to yc
+ | 
+contact
+search: 
+      
+jobs | hacker news
+hacker news
+new
+ | 
+past
+ | 
+comments
+ | 
+ask
+ | 
+show
+ | 
+jobs
+ | 
+submit
+            
+login
+these are jobs at yc startups. see more at 
+ycombinator.com/jobs
+.
+1.
+      
+       
+sieve (yc w22) is hiring engineers to build the future of video ai
+ (
+sievedata.com
+)
+13 hours ago
+      
+2.
+      
+       
+replit (yc w18) is hiring software engineers in the bay area
+ (
+replit.com
+)
+4 days ago
+      
+3.
+      
+       
+continue (yc s23) is hiring a software engineer in san francisco
+ (
+ycombinator.com
+)
+5 days ago
+      
+4.
+      
+       
+jiga (yc w21) is hiring operations coordinator
+ (
+ycombinator.com
+)
+5 days ago
+      
+5.
+      
+       
+alloy automation (yc w20) is hiring
+ (
+ycombinator.com
+)
+6 days ago
+      
+6.
+      
+       
+wasp (yc w21) is hiring a framework engineer to build laravel for javascript
+7 days ago
+      
+7.
+      
+       
+fern is hiring software engineers in brooklyn
+ (
+ycombinator.com
+)
+7 days ago
+      
+8.
+      
+       
+windmill hiring senior frontend (svelte) engineer in paris
+ (
+ycombinator.com
+)
+7 days ago
+      
+9.
+      
+       
+glass health (yc w23) is hiring founding, senior and lead full-stack engineers
+ (
+lever.co
+)
+8 days ago
+      
+10.
+      
+       
+handle.com (yc w19) is hiring
+ (
+ycombinator.com
+)
+8 days ago
+      
+11.
+      
+       
+vapi (yc w21) is hiring founding senior engineer (front end)
+ (
+ashbyhq.com
+)
+9 days ago
+      
+12.
+      
+       
+distro (yc s24) is hiring a head of marketing (b2b)
+ (
+ycombinator.com
+)
+9 days ago
+      
+13.
+      
+       
+converge (yc s23) is hiring senior product engineers (nyc, in-person)
+9 days ago
+      
+14.
+      
+       
+clearest health (yc s23) is hiring a full-stack engineer in ny
+9 days ago
+      
+15.
+      
+       
+yhangry (yc w22) is hiring 2 mid-level full-stack engineers
+ (
+ycombinator.com
+)
+9 days ago
+      
+16.
+      
+       
+gromo (yc w21) is hiring
+ (
+ycombinator.com
+)
+10 days ago
+      
+17.
+      
+       
+tigereye (yc s22) is hiring a full stack engineer
+ (
+ashbyhq.com
+)
+10 days ago
+      
+18.
+      
+       
+justpaid.ai (yc w23) is hiring software engineers in silicon valley
+ (
+justpaid.ai
+)
+10 days ago
+      
+19.
+      
+       
+expand.ai (yc s24) is hiring a founding engineer to turn the web into an api
+10 days ago
+      
+20.
+      
+       
+trieve (yc w24) is hiring a software engineer to build openapi tooling
+ (
+ycombinator.com
+)
+11 days ago
+      
+21.
+      
+       
+permitflow (yc w22) is hiring senior&#x2f;staff engineers in nyc
+ (
+ashbyhq.com
+)
+13 days ago
+      
+22.
+      
+       
+modern treasury (yc s18) is hiring a product designer
+ (
+ashbyhq.com
+)
+14 days ago
+      
+23.
+      
+       
+inspectmind ai (yc w24) is hiring for ai in construction
+ (
+ycombinator.com
+)
+15 days ago
+      
+24.
+      
+       
+mindsdb (yc w20) is hiring an operations analyst
+ (
+grnh.se
+)
+15 days ago
+      
+25.
+      
+       
+reflex (yc w23) is hiring software engineers (san francisco)
+ (
+ycombinator.com
+)
+16 days ago
+      
+26.
+      
+       
+patterns (yc s21) is hiring to transform business finance and credit
+ (
+patterns-ai.notion.site
+)
+16 days ago
+      
+27.
+      
+       
+hadrius (yc w23) is hiring engineers looking to grow into future founders
+ (
+ycombinator.com
+)
+16 days ago
+      
+28.
+      
+       
+nowadays (yc s23) is hiring
+17 days ago
+      
+29.
+      
+       
+instant (yc s22) is hiring a founding engineer to help build a modern firebase
+17 days ago
+      
+30.
+      
+       
+taxgpt (yc s24) is hiring staff software engineer
+ (
+ycombinator.com
+)
+17 days ago
+      
+more
+    
+guidelines
+ | 
+faq
+ | 
+lists
+ | 
+api
+ | 
+security
+ | 
+legal
+ | 
+apply to yc
+ | 
+contact
+search: 
+      
+you have to be logged in to submit.
+login
+username:
+password:
+forgot your password?
+create account
+username:
+password:
+login
+username:
+password:
+forgot your password?
+create account
+username:
+password:
+you have to be logged in to vote.
+login
+username:
+password:
+forgot your password?
+create account
+username:
+password:
