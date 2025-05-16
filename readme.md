@@ -66,7 +66,7 @@ Web_Crawler/
    ./search_tool --keyword “algorithm”
 
 
-** OUTPUT**
+ **OUTPUT**
    ```bash
     Raw pages under storage/
     Compressed archives under storage/compressed/
