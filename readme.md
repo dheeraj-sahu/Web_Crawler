@@ -33,3 +33,17 @@ Web_Crawler/
 ├── tests/ # Unit tests for parsing & indexing
 ├── CMakeLists.txt # Build configuration
 └── README.md # This file
+
+
+---
+
+## Installation & Build
+
+1. **Clone the repo**  
+   ```bash
+   git clone https://github.com/dheeraj-sahu/Web_Crawler.git
+   cd Web_Crawler
+
+
+
+   
