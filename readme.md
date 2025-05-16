@@ -44,6 +44,34 @@ Web_Crawler/
    git clone https://github.com/dheeraj-sahu/Web_Crawler.git
    cd Web_Crawler
 
+2. **Install dependencies**  
+   ```bash
+   C++17 compiler
+   libxml2
+   zlib (for Gzip)
+   cURL
 
 
-   
+3. **Build with CMake**  
+   ```bash
+   mkdir build && cd build
+   cmake ..
+   make
+
+4. **Usage**
+   ```bash
+   # Run crawler on Hacker News “Best” feed:
+   ./web_crawler --seed https://news.ycombinator.com/best --depth 2
+   # Example keyword lookup:
+   ./search_tool --keyword “algorithm”
+
+
+** OUTPUT**
+   ```bash
+    Raw pages under storage/
+    Compressed archives under storage/compressed/
+    Inverted index files under index/
+    
+    
+
+
