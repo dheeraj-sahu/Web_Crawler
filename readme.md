@@ -24,4 +24,12 @@ A high-performance, modular C++ BFS crawler that archives and indexes web conten
 ---
 
 ## Repo Structure
-
+Web_Crawler/
+├── crawler/ # BFS traversal and URL queue
+├── parser/ # HTML/CSS/JS extraction and sanitization
+├── indexer/ # KMP index construction and lookup
+├── storage/ # File I/O, directory hierarchy
+├── ai/ # Mistral AI integration for suggestions
+├── tests/ # Unit tests for parsing & indexing
+├── CMakeLists.txt # Build configuration
+└── README.md # This file
